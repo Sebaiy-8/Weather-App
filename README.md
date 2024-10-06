@@ -47,7 +47,3 @@ If you have any questions or suggestions, feel free to contact me:
 - **Name**: Mohamed Faraj Elsebaiy
 - **Email**: mosebaiy18@gmail.com
 - **Phone**: +201092855071
-
----
-
-Feel free to customize this README with more details and your project-specific information!
